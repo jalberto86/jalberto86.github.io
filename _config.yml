@@ -15,7 +15,6 @@ header_pages:
   - publications.md
   - teaching.md
   - cv.md
-  - projects.md
   - contact.md
 
 minima:
