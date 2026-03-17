@@ -21,7 +21,7 @@ permalink: /
 
 **Research interests:** environmental & energy economics; technological change and innovation; biofuels & net-zero pathways; CGE/GTAP modelling; trade and environmental impacts; land-use change and GHG emissions.
 
-- Email: [mercado.cordova86@gmail.com](mailto:mercado.cordova86@gmail.com)
+- Email: [jesusalberto.mercadocordova@univ-evry.fr](mailto:jesusalberto.mercadocordova@univ-evry.fr)
 - GitHub: <https://github.com/jalberto86>
 
 (Last updated: 2026-02-13)
